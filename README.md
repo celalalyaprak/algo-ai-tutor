@@ -114,6 +114,10 @@ Used in search engines for prefix-based suggestions.
 ### Analyze
 <img src="algo-ai-tutor/screenshots/analyze.png" width="800">
 
+<img src="algo-ai-tutor/screenshots/explain.png" width="800">
+<img src="algo-ai-tutor/screenshots/quiz.png" width="800">
+<img src="algo-ai-tutor/screenshots/analyze.png" width="800">
+
 
 ### Code Complexity Analyzer
 Analyzes Python implementations and estimates time complexity.
