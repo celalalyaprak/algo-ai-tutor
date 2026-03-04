@@ -1,4 +1,4 @@
-# AI Algorithm Tutor
+# ai-algorithm-tutor
 
 AI-powered learning tool that explains data structures and algorithms by analyzing my own GitHub implementation repository.
 
