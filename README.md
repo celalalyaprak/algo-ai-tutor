@@ -105,19 +105,15 @@ Used in search engines for prefix-based suggestions.
 
 ## Demo
 
-> Add screenshots/gif here (recommended)
-
 - Explain:
- ![Explain](<img src="screenshots/explain.png" width="700"/>)
+<img src="screenshots/explain.png" width="700"/>
 
 - Quiz:
- ![Quiz](<img src="screenshots/quiz.png" width="700"/>)
+<img src="screenshots/quiz.png" width="700"/>
 
 - Analyze:
-![Analyze](<img src="screenshots/analyze.png" width="700"/>)
+<img src="screenshots/analyze.png" width="700"/>
 
 
 ### Code Complexity Analyzer
 Analyzes Python implementations and estimates time complexity.
-
-![Analyze Demo](./screenshots/analyze.png)
