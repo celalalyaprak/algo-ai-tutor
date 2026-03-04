@@ -106,7 +106,8 @@ Used in search engines for prefix-based suggestions.
 ## Demo
 
 ### Explain
-<img src="screenshots/explain.png" width="800" />
+<img width="879" height="815" alt="explain" src="https://github.com/user-attachments/assets/f7d03aef-33f6-475c-aceb-b43b5b408421" />
+
 
 ### Quiz
 <img src="screenshots/quiz.png" width="800" />
