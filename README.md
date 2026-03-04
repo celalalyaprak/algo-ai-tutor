@@ -105,14 +105,16 @@ Used in search engines for prefix-based suggestions.
 
 ## Demo
 
-- Explain:
-<img src="algo-ai-tutor/screenshots/explain.png">
+## Demo
 
-- Quiz:
-<img src="algo-ai-tutor/quiz.png" width="800"/>
+### Explain
+<img src="screenshots/explain.png" width="800">
 
-- Analyze:
-<img src="algo-ai-tutor/analyze.png" width="800"/>
+### Quiz
+<img src="screenshots/quiz.png" width="800">
+
+### Analyze
+<img src="screenshots/analyze.png" width="800">
 
 
 ### Code Complexity Analyzer
