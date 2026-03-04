@@ -1,19 +1,33 @@
-# ai-algorithm-tutor
+# AI Algorithm Tutor
 
-AI-powered learning tool that explains data structures and algorithms by analyzing my own GitHub implementation repository.
+AI-inspired learning tool that explains Data Structures & Algorithms by extracting context from my GitHub DSA repository, and provides:
+- Structured explanations
+- Interview-style quizzes
+- Basic code complexity signals (nested loops + recursion)
 
-This project connects to my **Data Structures & Algorithms Playground** repository and generates structured explanations, quizzes, and complexity estimates based on the source code.
+🔗 DSA source repo: https://github.com/celalalyaprak/data-structures-algorithms-playground
 
 ---
 
-# Features
+## Features
 
-- Algorithm explanations (Trie, Hash Tables, Graphs, Recursion)
-- Interview-style quiz generator
-- Code complexity analyzer
-- Repository-driven explanations
-- Interactive learning UI
-- REST API backend
+- Algorithm explanations (Trie, Hash Table, Sorting, Graph, Recursion, BST/AVL)
+- Repository-driven context extraction (reads docs from my DSA repo)
+- Quiz generator for interview practice
+- Code complexity analyzer (heuristics):
+  - detects recursion
+  - detects loop nesting depth
+  - estimates Big-O signal
+
+---
+
+## API Endpoints
+
+- `GET /api/topics`
+- `POST /api/explain`  `{ "topic": "Trie" }`
+- `POST /api/quiz`     `{ "topic": "Trie", "level": "junior" }`
+- `GET /api/files`
+- `POST /api/complexity` `{ "filePath": "milestone-1/project.py" }`
 
 ---
 
@@ -89,17 +103,19 @@ Used in search engines for prefix-based suggestions.
 
 ---
 
-# Demo
+## Demo
 
-### Algorithm Explanation
-Explains algorithms with structured sections.
+> Add screenshots/gif here (recommended)
 
-![Explain Demo](./screenshots/explain.png)
+- Explain:
+  ![Explain Demo](screenshots/explain.png)
 
-### Interview Quiz Generator
-Generates practice questions for algorithm topics.
+- Quiz:
+  ![Quiz Demo](screenshots/quiz.png)
 
-![Quiz Demo](./screenshots/quiz.png)
+- Analyze:
+  ![Analyze Demo](screenshots/analyze.png)
+
 
 ### Code Complexity Analyzer
 Analyzes Python implementations and estimates time complexity.
