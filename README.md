@@ -108,13 +108,13 @@ Used in search engines for prefix-based suggestions.
 > Add screenshots/gif here (recommended)
 
 - Explain:
- ![Explain](./screenshots/explain.png)
+ ![Explain](<img src="screenshots/explain.png" width="700"/>)
 
 - Quiz:
- ![Quiz](./screenshots/quiz.png)
+ ![Quiz](<img src="screenshots/quiz.png" width="700"/>)
 
 - Analyze:
-![Analyze](./screenshots/analyze.png)
+![Analyze](<img src="screenshots/analyze.png" width="700"/>)
 
 
 ### Code Complexity Analyzer
