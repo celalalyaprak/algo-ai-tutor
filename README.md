@@ -106,7 +106,7 @@ Used in search engines for prefix-based suggestions.
 ## Demo
 
 ### Explain
-![image alt](https://github.com/celalalyaprak/algo-ai-tutor/blob/main/algo-ai-tutor/algo-ai-tutor/screenshots/analyze.png?raw=true)
+![image alt](https://github.com/celalalyaprak/algo-ai-tutor/blob/5caa244c8e8b873ac91c8060255c668fb0064055/algo-ai-tutor/algo-ai-tutor/screenshots/analyze.png)
 
 
 ### Quiz
